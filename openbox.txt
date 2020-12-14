@@ -7,3 +7,4 @@ xterm
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
+vim
